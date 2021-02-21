@@ -1,5 +1,10 @@
 <?php
-
+/*
+ * Zac Almas
+ * CST-236
+ * 2/7/21
+ * This page registers the customer
+ */
 ?>
 
 <!DOCTYPE HTML>
